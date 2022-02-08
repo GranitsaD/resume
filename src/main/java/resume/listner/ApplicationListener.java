@@ -1,4 +1,4 @@
-package net.devstudy.resume.listner;
+package resume.listner;
 
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;

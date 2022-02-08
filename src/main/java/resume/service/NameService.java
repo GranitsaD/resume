@@ -1,4 +1,4 @@
-package net.devstudy.resume.service;
+package resume.service;
 
 
 public class NameService {

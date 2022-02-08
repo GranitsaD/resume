@@ -1,4 +1,4 @@
-package net.devstudy.resume.filter;
+package resume.filter;
 
 import java.io.IOException;
 
